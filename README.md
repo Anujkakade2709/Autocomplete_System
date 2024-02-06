@@ -1,10 +1,8 @@
-# Autocomplete_System
-Contains README and Automcomplete directory
-
 # Autocomplete Service
 
 ## Introduction
-This repository contains a simple autocomplete service implemented in Python using Flask and a trie data structure. The service is designed to provide query suggestions based on prefixes input by users, similar to the functionality seen in search engines like Google.
+This repository contains a simple autocomplete service implemented in Python using Flask and a trie data structure. The service is designed to provide query suggestions based on prefixes input by users, similar to the functionality seen in search engines like Google. 
+The data can be downloaded from here: https://drive.google.com/file/d/17L5fLvdni029_M2dmV0BYxtfE6y0At8Y/view?usp=sharing
 
 ## Design Decisions
 
